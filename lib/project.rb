@@ -3,6 +3,6 @@ class Project
 
   def initialize(title)
     @title = title
-    @bakers = 
-  
+    @bakers =
+
 end
